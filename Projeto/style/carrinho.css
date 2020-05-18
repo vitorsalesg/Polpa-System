@@ -1,0 +1,19 @@
+#myDialog{
+    border:none;
+    border-radius:3px;
+    width:500px;
+    transition: 0.8s;
+}
+#myDialog .pay:hover{
+    font-size:25px;
+}
+#myDialog h1,h3{
+    text-align:center;
+}
+#myDialog p{
+    text-align:justify;
+}
+#myDialog #indiponivel{
+    opacity:0.5;
+    color:grey;
+}

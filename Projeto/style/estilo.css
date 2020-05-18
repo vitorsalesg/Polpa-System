@@ -1,0 +1,260 @@
+*{box-sizing: border-box;}
+body{background-color: #f5f5f5;}
+a{text-decoration:none;}
+ul{list-style: none;}
+
+html, body{
+	height: 100%;
+	margin:0px;
+}
+.bloco{
+	min-height: 100%;
+}
+.home{
+	animation: mudarbg 15s infinite;
+	background-image: url('../image/bg1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+@keyframes mudarbg{
+	40%{background-image: url('../image/bg4.jpg');}
+	80%{background-image: url('../image/bg3.jpg');}
+	100%{background-image: url('../image/bg1.jpg');}*/
+}
+nav li{
+	list-style: none
+}
+.active{
+	float: right;
+	color: white;
+	margin:15px;
+	padding: 7px;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-family: 'Archivo Black', sans-serif;
+	transition: 0.5s;
+	border:1px solid black;
+	border-radius: 3px;
+	letter-spacing: 1px;
+}
+
+.active:hover{
+	background-color: orange;
+	border:1px solid orange;
+}
+.logo{	
+	width: 100px;
+	border-radius: 5%;
+	float: left;
+	padding-top: 15px;
+}
+.banner{
+	padding-top: 200px;
+	padding: 10%;
+}
+.banner h2{
+	font-weight: bold;
+	color: white;
+	font-size: 4em;
+	font-family: 'Archivo Black', sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.banner p{
+	color: white;
+	font-size:1.5em;
+	line-height: 1.8em;
+	text-align: center;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+
+.botoes{
+	text-align: center;
+}
+.botoes a{
+	letter-spacing: 1px;
+	text-decoration: none;
+	padding: 15px;
+	border-radius: 2px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Alegreya Sans', sans-serif;
+	transition: 0.5s;
+}
+.btn_sobre{
+	background-color: orange;
+	color: white;
+}
+.btn_sobre:hover{
+	background-color: white;
+	color: black;
+}
+.btn_contato{
+	background-color: white;
+	color: black;
+}
+.btn_contato:hover{
+	background-color: orange;
+	color: white;
+}
+
+
+.container{
+	list-style-type: none;
+	margin: auto;
+	padding: 10px;
+	overflow: hidden;
+	background-color: #fffff;
+}
+.servicos{
+	width: 100%;
+	float:left;
+	padding: 3% 4%;
+}
+.servico{
+	width: 100%;
+	background-color: #fff;
+	text-align: left;
+	border-radius: 5px;
+	margin-bottom: 3%
+}
+.servico img{
+	border-radius: 7px 7px 0 0;
+	max-width: 100%;
+}
+.inner{
+	padding: 7%;
+}
+.inner a {
+	font-size: 1.4em;
+	color: #130400;
+	font-weight:700;
+	text-transform: uppercase;
+	font-family: 'Archivo Black', sans-serif;
+}
+.inner p {
+	margin-top: 3%;
+	color: #130400;
+	line-height: 1.7em;
+	text-align: justify;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 1.3em;
+}
+.contato{
+	width: 100%;
+	float: left;
+	text-align: center;
+	padding: 3% 4%;
+	background-color: orange;
+}
+.contato h2,h1{
+	font-size: 1.9em;
+	color: #fff;
+	font-weight: 700;
+	font-family: 'Archivo Black', sans-serif;
+	text-transform: uppercase;
+
+}
+.contato h3{
+	color: #fff;
+	font-size: 1.5em;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+.contato input,textarea{
+	width: 100%;
+	background-color: white;
+	color:black;
+	border:1px solid rgba(255,255,255,0.3) ;
+	padding: 5%;
+	border-radius: 5px;
+	margin-bottom: 1%;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 1.1em;
+	transition: 0.8s;
+}
+.contato .btn-contato{
+	font-family: 'Archivo Black', sans-serif;
+	text-transform: uppercase;
+}
+.contato .btn-contato:hover{
+	background-color: black;
+	color: white;
+}
+.rodape{
+	background-color: black;
+	text-align: center;
+}
+.social-icons a{
+	font-size: 1.5em;
+	color:rgba(255,255,255,0.7);
+	margin-right: 3%;
+	transition: 0.3s;
+}
+.social-icons a:last-child{
+	margin-right: 0;
+}
+.social-icons a{
+	color:rgba(255,255,255);	
+}
+.social-icons a:hover{
+	color:rgba(255,255,255,0.7)
+}
+.copyright{
+	text-align: center;
+	margin-top: 2%;
+	color:rgba(255,255,255,0.7);
+}
+
+@media screen and (min-width: 480px){
+.btn{
+	color:orange;
+}
+}
+
+@media screen and (min-width: 768px){
+.servico{
+	width: 49%;
+	float: left;
+	margin-right: 2%;
+}
+.servico:nth-child(2){
+	margin-right: 0;
+}
+}
+
+@media screen and (min-width: 960px){
+.servico{
+	width: 32%;
+}
+.servico:nth-child(2){
+	margin-right: 2%;
+}
+.servico:nth-child(3){
+	margin-right: 0;
+}
+
+}
+
+@media screen and (min-width: 1280px){
+.banner{
+	height: 600px;
+}
+.buttons{
+	margin-top: 70px;
+	width: 25%;
+}
+.contato input,textarea{
+	width: 49%;
+	float: left;
+	margin-right: 1%;
+}
+.contato .btn-contato{
+	border:1px solid black;
+	background-color: orange;
+	color: white;
+	font-size: 1.3em;
+
+}
+}
