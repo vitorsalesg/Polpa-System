@@ -58,7 +58,9 @@ Obs: Diversas informações contidas nas imagens não são verdaderiras, foi col
 
 ![Screenshot_1](https://user-images.githubusercontent.com/42179077/82226292-b4c1c600-98fc-11ea-8b11-dd5824367b63.png)
 
-<h2>Algumas das Paginas de Administrador</h2>
+<h2 align="center">ADMINISTRADOR</h2>
+
+...
 
 - Configurar os dados da conta
 
@@ -80,7 +82,9 @@ Obs: Diversas informações contidas nas imagens não são verdaderiras, foi col
 
 ![PedidosClientes](https://user-images.githubusercontent.com/42179042/67163680-3f7f1a00-f348-11e9-91a7-8b3c64a483dc.png)
 
-<h2>Algumas das Paginas do Cliente</h2>
+<h2 align="center">CLIENTE</h2>
+
+.....
 
 - Configurar os dados da conta
 
