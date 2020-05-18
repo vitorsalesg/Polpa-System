@@ -2,6 +2,7 @@
 
 Fundada em 2015 em Guarulhos por Paulo Rubens Furtado a empresa Deja Alimentos era um pequeno negócio de congelados onde o próprio proprietário da empresa era responsável por fazer e administrar diversas tarefas dentro da empresa. Atualmente se mudou para Itaqua onde abriu sua primeira loja de polpas e outros diversos produtos congelados, contando agora com alguns funcionários.
 
+Obs: Diversas informações contidas nas imagens não são verdaderiras, foi colocado apenas para mostrar o Layout das paginas com informações em seus respectivos campos.
 <br>
 <br>
 <table>
@@ -51,11 +52,11 @@ Fundada em 2015 em Guarulhos por Paulo Rubens Furtado a empresa Deja Alimentos e
 
 <h2>Layout da Página Inicial</h1>
 
-![index](https://user-images.githubusercontent.com/42179077/69283653-912af680-0bcb-11ea-9891-7b6c5228b431.PNG)
+![Screenshot_2](https://user-images.githubusercontent.com/42179077/82226284-b2f80280-98fc-11ea-9bee-59a6284ac738.png)
 
-![sobrenos](https://user-images.githubusercontent.com/42179077/69283669-9ab45e80-0bcb-11ea-89e4-12877555de86.PNG)
+![Screenshot_3](https://user-images.githubusercontent.com/42179077/82226291-b4292f80-98fc-11ea-81ca-896421073508.png)
 
-![contato](https://user-images.githubusercontent.com/42179077/69283676-9c7e2200-0bcb-11ea-9303-db10ba9ec1b1.PNG)
+![Screenshot_1](https://user-images.githubusercontent.com/42179077/82226292-b4c1c600-98fc-11ea-8b11-dd5824367b63.png)
 
 <h2>Algumas das Paginas de Administrador</h2>
 
