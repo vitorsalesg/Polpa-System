@@ -98,5 +98,8 @@ Fundada em 2015 em Guarulhos por Paulo Rubens Furtado a empresa Deja Alimentos e
 ![Carrinho](https://user-images.githubusercontent.com/42179042/67163843-57f03400-f34a-11e9-9e6b-4b97beefbaaa.png)
 
 
+<p>Obs: Este projeto foi desenvolvido para um projeto da faculdade, buscando um cliente real no mercado e resolvendo um problema existente em sua empresa atraves da tecnologia. Sendo assim foi criado o site com diversas operações que ele pode utilizar de forma 
+simples e rapida.<p>
+
 
 
