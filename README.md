@@ -1,10 +1,20 @@
 ![logo2 (1)](https://user-images.githubusercontent.com/42179077/69284317-195dcb80-0bcd-11ea-8373-739afff82175.png)
 
-Fundada em 2015 em Guarulhos por Paulo Rubens Furtado a empresa Deja Alimentos era um pequeno negócio de congelados onde o próprio proprietário da empresa era responsável por fazer e administrar diversas tarefas dentro da empresa. Atualmente se mudou para Itaqua onde abriu sua primeira loja de polpas e outros diversos produtos congelados, contando agora com alguns funcionários.
+<h1>Oque é o Polpa System ? </h1>
 
+
+
+<h2>Um pouco sobre a empresa do Projeto</h2>
+
+<p align="justify">
+Deja Alimentos era um pequeno negócio de congelados onde o próprio proprietário da empresa era responsável por administrar diversas tarefas dentro da empresa. Atualmente se mudou para Itaqua onde abriu sua primeira loja de polpas e outros diversos produtos congelados, contando agora com alguns funcionários.
+<br>
+<br>
 Obs: Diversas informações contidas nas imagens não são verdaderiras, foi colocado apenas para mostrar o Layout das paginas com informações em seus respectivos campos.
+</p>
+
 <br>
-<br>
+
 <table>
 	<thead>
 		<th>Tecnologias Utilizadas</th>
@@ -52,6 +62,8 @@ Obs: Diversas informações contidas nas imagens não são verdaderiras, foi col
 
 <h2>Layout da Página Inicial</h1>
 
+<p>Na pagina inicial do site onde todas as pessoas podem ver mesmo sem estar logados no sistema é possivel conhecer mais sobre a empresa, enviar alguma mensagem de contato caso tenha alguma duvida e ver as redes sociais no rodape.</p>
+
 ![Screenshot_4](https://user-images.githubusercontent.com/42179077/82226885-6eb93200-98fd-11ea-8cc2-8ef32b4bde5e.png)
 
 ![Screenshot_3](https://user-images.githubusercontent.com/42179077/82226291-b4292f80-98fc-11ea-81ca-896421073508.png)
@@ -60,17 +72,17 @@ Obs: Diversas informações contidas nas imagens não são verdaderiras, foi col
 
 <h2 align="center">ADMINISTRADOR</h2>
 
-...
+<p>Algumas das paginas que somente o Administrador da empresa pode ver e realizar alterações.</p>
 
 - Configurar os dados da conta
 
 ![PerfilDono](https://user-images.githubusercontent.com/42179042/67163543-ab608300-f346-11e9-9049-133bf81928dc.png)
 
-- Acompanhar as mensagens dos clientes
+- Acompanhar as mensagens dos clientes, todas as mensagens enviadas pelo cliente na pagina principal aparecem aqui.
 
 ![MensagemClientes](https://user-images.githubusercontent.com/42179042/67163566-e95da700-f346-11e9-9817-2b9a14e9e771.png)
 
-- Gerenciar o acesso do cliente no site
+- Gerenciar o acesso do cliente no site, onde é possivel fazer com que um usuario do sistema tenha acesso as diversas operações de um administrador.
 
 ![Clientes](https://user-images.githubusercontent.com/42179042/67163597-393c6e00-f347-11e9-9907-67d56f67d665.png)
 
@@ -84,7 +96,7 @@ Obs: Diversas informações contidas nas imagens não são verdaderiras, foi col
 
 <h2 align="center">CLIENTE</h2>
 
-.....
+<p>Algumas das paginas que o cliente pode utilizar apos realizar o cadastro no site da empresa.</p>
 
 - Configurar os dados da conta
 
@@ -102,9 +114,9 @@ Obs: Diversas informações contidas nas imagens não são verdaderiras, foi col
 
 ![Carrinho](https://user-images.githubusercontent.com/42179042/67163843-57f03400-f34a-11e9-9e6b-4b97beefbaaa.png)
 
+<p align="justify">Estas são algumas das paginas que estão no projeto, todos os campos de preenchimento estão com validação caso o usuario digite alguma coisa incorreta ou aconteça alguma coisa com o sistema.<p>
 
-<p>Obs: Este projeto foi desenvolvido para um projeto da faculdade, buscando um cliente real no mercado e resolvendo um problema existente em sua empresa atraves da tecnologia. Sendo assim foi criado o site com diversas operações que ele pode utilizar de forma 
-simples e rapida.<p>
+<p align="justify">Obs: Este projeto foi desenvolvido para um projeto da faculdade, buscando um cliente real no mercado e resolvendo um problema existente em sua empresa atraves da tecnologia. Sendo assim foi criado o site com diversas operações que ele pode utilizar de forma simples e rapida.<p>
 
 
 
