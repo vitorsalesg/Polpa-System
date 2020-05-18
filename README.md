@@ -2,7 +2,7 @@
 
 <h2 align="center">Oque é o Polpa System ? </h2>
 
-<p align="justify">O Polpa System é um sistema de gerencimento de estoque criada para uma empresa que vende produtos congelados como polpas de frutas e açai, este projeto foi criado com um cliente real que estava no mercado e existia alguns problemas na sua empresa, o site foi criado com a ideia de facilitar suas tarefas e retirar os problemas encontrados.</p>
+<p align="justify">Polpa System é um sistema de gerencimento de estoque criado para uma empresa que vende produtos congelados como polpas de frutas e açai, este projeto foi criado com um cliente real onde existia alguns problemas na sua empresa, o site foi criado com a ideia de facilitar suas tarefas e retirar os problemas encontrados.</p>
 
 <h2 align="center">Um pouco sobre a empresa do Projeto</h2>
 
@@ -10,7 +10,7 @@
 Deja Alimentos era um pequeno negócio de congelados onde o próprio proprietário da empresa era responsável por administrar diversas tarefas dentro da empresa. Atualmente se mudou para Itaqua onde abriu sua primeira loja de polpas e outros diversos produtos congelados, contando agora com alguns funcionários.
 <br>
 <br>
-Obs: Diversas informações contidas nas imagens não são verdaderiras, foi colocado apenas para mostrar o Layout das paginas com informações em seus respectivos campos.
+Obs: Diversas informações contidas nas imagens não são verdadeiras, foi colocado apenas para mostrar o Layout das paginas com informações em seus respectivos campos.
 </p>
 
 <br>
