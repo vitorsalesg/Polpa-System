@@ -52,7 +52,7 @@ Obs: Diversas informações contidas nas imagens não são verdaderiras, foi col
 
 <h2>Layout da Página Inicial</h1>
 
-![Screenshot_2](https://user-images.githubusercontent.com/42179077/82226284-b2f80280-98fc-11ea-9bee-59a6284ac738.png)
+![Screenshot_4](https://user-images.githubusercontent.com/42179077/82226885-6eb93200-98fd-11ea-8cc2-8ef32b4bde5e.png)
 
 ![Screenshot_3](https://user-images.githubusercontent.com/42179077/82226291-b4292f80-98fc-11ea-81ca-896421073508.png)
 
