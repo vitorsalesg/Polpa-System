@@ -1,10 +1,10 @@
 ![logo2 (1)](https://user-images.githubusercontent.com/42179077/69284317-195dcb80-0bcd-11ea-8373-739afff82175.png)
 
-<h1>Oque é o Polpa System ? </h1>
+<h2 align="center">Oque é o Polpa System ? </h2>
 
+<p align="justify">O Polpa System é um sistema de gerencimento de estoque criada para uma empresa que vende produtos congelados como polpas de frutas e açai, este projeto foi criado com um cliente real que estava no mercado e existia alguns problemas na sua empresa, o site foi criado com a ideia de facilitar suas tarefas e retirar os problemas encontrados.</p>
 
-
-<h2>Um pouco sobre a empresa do Projeto</h2>
+<h2 align="center">Um pouco sobre a empresa do Projeto</h2>
 
 <p align="justify">
 Deja Alimentos era um pequeno negócio de congelados onde o próprio proprietário da empresa era responsável por administrar diversas tarefas dentro da empresa. Atualmente se mudou para Itaqua onde abriu sua primeira loja de polpas e outros diversos produtos congelados, contando agora com alguns funcionários.
@@ -60,7 +60,7 @@ Obs: Diversas informações contidas nas imagens não são verdaderiras, foi col
 		</tbody>
 	</table>
 
-<h2>Layout da Página Inicial</h1>
+<h2 align="center">Layout da Página Inicial</h2>
 
 <p>Na pagina inicial do site onde todas as pessoas podem ver mesmo sem estar logados no sistema é possivel conhecer mais sobre a empresa, enviar alguma mensagem de contato caso tenha alguma duvida e ver as redes sociais no rodape.</p>
 
